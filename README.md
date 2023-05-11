@@ -294,9 +294,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![prg exp 4](https://github.com/Rama-Lekshmi/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118541549/a2cffa97-d02e-40b0-ba9b-07bce18b8d33)
-
  
+
+ ![prg exp 4](https://github.com/Rama-Lekshmi/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118541549/382cd518-a8ba-49b4-a7d1-faa2324eb3e6)
+
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
