@@ -194,7 +194,7 @@ int main(void)
   Lcd_HandleTypeDef lcd;
   lcd = Lcd_create(ports,pins,GPIOB,GPIO_PIN_0,GPIOB,GPIO_PIN_1,LCD_4_BIT_MODE);
   Lcd_cursor(&lcd,1,0);
-  Lcd_string(&lcd,"Prabha.C");
+  Lcd_string(&lcd,"Rama E.K. Lekshmi");
 
   while (1)
   {
@@ -294,8 +294,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ ![prg exp 4](https://github.com/Rama-Lekshmi/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118541549/a2cffa97-d02e-40b0-ba9b-07bce18b8d33)
+
  
- ![Screenshot 2023-04-29 at 13-30-05 22008837_EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-](https://user-images.githubusercontent.com/118541549/235292120-f85451f9-ff0a-40d9-9adb-c2b655802583.png)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
